@@ -33,7 +33,7 @@ body {
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 
 .home-link img {
@@ -52,7 +52,7 @@ body {
     border-radius: 6px;
     cursor: pointer;
     background: rgba(255, 255, 255, 0.2);
-    color: white;
+    color: rgb(255, 255, 255);
     font-weight: bold;
     transition: background 0.3s ease;
 }
@@ -148,7 +148,7 @@ body {
     padding: 1rem;
     background: #ff9800;
     border-radius: 10px;
-    color: white;
+    color: #ff9800
     width: 250px;
     transform: translateY(20px);
     opacity: 0;
